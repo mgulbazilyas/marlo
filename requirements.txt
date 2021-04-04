@@ -1,0 +1,6 @@
+requests~=2.24.0
+bs4~=0.0.1
+wget~=3.2
+beautifulsoup4~=4.9.1
+pathlib~=1.0.1
+selenium~=3.141.0
